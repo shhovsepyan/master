@@ -12,7 +12,9 @@ Hardhat project automatically includes the ethers.js library and the Chai Assert
 The project includes:
 
 contracts/ is the folder where the smart contract Solidity code lives
+
 test/ is the folder where the JavaScript test code will go
+
 scripts/ is where we put deployment and other scripts.
 
 Token.sol- implements the ERC20 standard token.
